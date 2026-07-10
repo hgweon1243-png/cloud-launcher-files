@@ -1,0 +1,28 @@
+{
+  "launcher_version": "1.0.0",
+  "launcher_download_url": "http://127.0.0.1:8000/launcher/CloudLauncher.exe",
+  "default_profile": "cloud-main",
+  "profiles": [
+    {
+      "id": "cloud-main",
+      "name": "구름서버",
+      "description": "구름서버 NeoForge 1.21.1 전용 클라이언트",
+      "icon_url": "",
+      "background_url": "",
+      "minecraft_version": "1.21.1",
+      "mod_loader": {
+        "type": "neoforge",
+        "version": "21.1.233"
+      },
+      "memory": {
+        "min": "4G",
+        "max": "12G"
+      },
+      "server_ip": "cloud.cloud.xn--3e0b707e:594",
+      "server_port": 25565,
+      "folder": "cloud-main",
+      "whitelist_enabled": false,
+      "mods": []
+    }
+  ]
+}
