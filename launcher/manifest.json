@@ -4,5 +4,12 @@
   "neoforgeVersion": "21.1.233",
   "serverHost": "cloud.cloud.xn--3e0b707e",
   "serverPort": 594,
-  "files": []
+  "files": [
+    {
+      "path": "mods/cloud_prison_client_guard.jar",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/cloud_prison_client_guard.jar",
+      "sha256": "",
+      "size": 0
+    }
+  ]
 }
