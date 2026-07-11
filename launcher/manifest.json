@@ -4,5 +4,28 @@
   "neoforgeVersion": "21.1.233",
   "serverHost": "cloud.cloud.xn--3e0b707e",
   "serverPort": 594,
-  "files": []
+  "files": [],
+  "packages": [
+    {
+      "name": "mods",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/mods.zip",
+      "sha256": "53477d316fe5b48b8c87e5781ed57c4a1bb6740ca0fc6ed6db0725d2bf02aa47",
+      "required": true,
+      "cleanTarget": true
+    },
+    {
+      "name": "resourcepacks",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/resourcepacks.zip",
+      "sha256": "93274c57de4f215a7d3d80e7f5b641b9ca5e9568e4685151a10e58b343c672da",
+      "required": false,
+      "cleanTarget": false
+    },
+    {
+      "name": "shaderpacks",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/shaderpacks.zip",
+      "sha256": "3faabf4d4bf23b17b72ab8bc3e6d815c9b1a8efc984168e687d7911d680f4344",
+      "required": false,
+      "cleanTarget": false
+    }
+  ]
 }
