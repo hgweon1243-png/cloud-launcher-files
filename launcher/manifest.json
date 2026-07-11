@@ -8,21 +8,21 @@
   "packages": [
     {
       "name": "mods",
-      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/mods.zip",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/mods.zip",
       "sha256": "",
       "required": true,
       "cleanTarget": true
     },
     {
       "name": "resourcepacks",
-      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/resourcepacks.zip",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/resourcepacks.zip",
       "sha256": "",
       "required": false,
       "cleanTarget": false
     },
     {
       "name": "shaderpacks",
-      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/v1.0.0/shaderpacks.zip",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/shaderpacks.zip",
       "sha256": "",
       "required": false,
       "cleanTarget": false
