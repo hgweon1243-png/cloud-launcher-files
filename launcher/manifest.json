@@ -9,7 +9,7 @@
     {
       "name": "mods",
       "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/mods.zip",
-      "sha256": "bec019dc9ba3a6594bba484bf713cc320f5de500f87158fc54113441de1b7812",
+      "sha256": "",
       "required": true,
       "cleanTarget": true
     },
