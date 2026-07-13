@@ -12,6 +12,13 @@
       "sha256": "",
       "required": true,
       "cleanTarget": true
+    },
+    {
+      "name": "emotes",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/emotes.zip",
+      "sha256": "",
+      "required": false,
+      "cleanTarget": false
     }
   ]
 }
