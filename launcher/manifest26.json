@@ -1,0 +1,31 @@
+{
+  "launcherVersion": "2.0.0",
+  "minecraftVersion": "26.1.2",
+  "neoforgeVersion": "26.1.2.122",
+  "serverHost": "127.0.0.1",
+  "serverPort": 500,
+  "files": [],
+  "packages": [
+    {
+      "name": "mods",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/mods.zip",
+      "sha256": "",
+      "required": true,
+      "cleanTarget": true
+    },
+    {
+      "name": "emotes",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/emotes.zip",
+      "sha256": "",
+      "required": false,
+      "cleanTarget": false
+    },
+    {
+      "name": "shaderpacks",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.0/shaderpacks.zip",
+      "sha256": "",
+      "required": false,
+      "cleanTarget": false
+    }
+  ]
+}
