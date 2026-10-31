@@ -8,7 +8,7 @@
   "packages": [
     {
       "name": "mods",
-      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/1.0.1/mods.zip",
+      "url": "https://github.com/hgweon1243-png/cloud-launcher-files/releases/download/26.1.2-mods-01/mods.zip",
       "sha256": "",
       "required": true,
       "cleanTarget": true
